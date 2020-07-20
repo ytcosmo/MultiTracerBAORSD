@@ -1,5 +1,5 @@
 # MultiTracerBAORSD
-Here are the DR16 BAO and RSD measurements and covariance matrix in Wang et al 2020 (arXiv:2007.09010).
+Here are the DR16 BAO and RSD measurements and covariance matrix in Wang et al 2020 (https://arxiv.org/abs/2007.09010).
 
 # sdss_DR16_MultiTracerELGLRG_FS_xi.dat :
 The best-fit values with 1\sigma error bars for the parameters (DM/rd, DH/rd, f\sigma_8)
