@@ -26,8 +26,8 @@ The cross-correlation function multipoles (s, xi0, xi2, xi4) from cross sample i
 
 The autocorrelation function multipoles (s, xi0, xi2, xi4) from eBOSS DR16 LRG sample and BOSS DR12 CMASS sample within $0.6<z<1.0$ in NGC and SGC. 
 
-# The RIC effects for different samples are estimated from mocks, which can be subtracted from the data measurement above.
-
+# The Radial integral constraint
+The RIC effects for different samples are estimated from mocks, which are subtracted from the data measurements above.
 ELG sample: New_ELG_NGC_RIC_xi024.dat and New_ELG_SGC_RIC_xi024.dat in the format of (s, xi0, xi2, xi4)
 CROSS sample: CROSS_NGC_RIC_xi024.dat and CROSS_SGC_RIC_xi024.dat in the format of (s, xi0, xi2, xi4)
 LRGpCMASS sample: LRGpCMASS_NGC_RIC_xi024.dat and LRGpCMASS_SGC_RIC_xi024.dat in the format of (s, xi0, xi2, xi4)
